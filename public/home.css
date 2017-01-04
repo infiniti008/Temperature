@@ -1,0 +1,105 @@
+.body_home{
+  max-width: 800px;
+  max-height: 480px;
+  background-color: grey;
+  font-size: 0px;
+}
+
+#menu{
+  background-color: red;
+  width: 160px;
+  height: 70px;
+  margin-top: 0px;
+  margin-left: 0px;
+  position: absolute;;
+}
+
+#date{
+  background-color: blue;
+  width: 320px;
+  height: 70px;
+  margin-top: 0px;
+  margin-left: 160px;
+  position: absolute;
+}
+
+#time{
+  background-color: yellow;
+  width: 80px;
+  height: 70px;
+  margin-top: 0px;
+  margin-left: 480px;
+  position: absolute;
+}
+
+#head_current_time{
+  background-color: green;
+  width: 240px;
+  height: 70px;
+  margin-top: 0px;
+  margin-left: 560px;
+  position: absolute;
+}
+
+#curr_temp{
+  background-color: black;
+  width: 240px;
+  height: 170px;
+  margin-top: 70px;
+  margin-left: 560px;
+  position: absolute;
+}
+
+#table_temp{
+  background-color: yellow;
+  width: 240px;
+  height: 240px;
+  margin-top: 240px;
+  margin-left: 560px;
+  position: absolute;
+}
+
+#plot{
+  background-color: green;
+  width: 560px;
+  height: 330px;
+  margin-top: 70px;
+  margin-left: 0px;
+  position: absolute;
+}
+
+#fut_1{
+  background-color: yellow;
+  width: 140px;
+  height: 80px;
+  margin-top: 400px;
+  margin-left: 0px;
+  position: absolute;
+}
+
+#fut_2{
+  background-color: blue;
+  width: 140px;
+  height: 80px;
+  margin-top: 400px;
+  margin-left: 140px;
+  position: absolute;
+}
+
+#fut_3{
+  background-color: black;
+  width: 140px;
+  height: 80px;
+  margin-top: 400px;
+  margin-left: 280px;
+  position: absolute;
+}
+
+#fut_4{
+  background-color: red;
+  width: 140px;
+  height: 80px;
+  margin-top: 400px;
+  margin-left: 420px;
+  position: absolute;
+}
