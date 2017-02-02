@@ -1,13 +1,18 @@
 .body_home{
-  max-width: 800px;
-  max-height: 480px;
-  background-color: grey;
+  max-width: 965px;
+  max-height: 515px;
+  /*background-color: grey;*/
   font-size: 0px;
+}
+.test{
+  background-color: white;
+  width: 965px;
+  height: 515px;
 }
 
 #menu{
   background-color: red;
-  width: 160px;
+  width: 170px;
   height: 70px;
   margin-top: 0px;
   margin-left: 0px;
@@ -16,53 +21,61 @@
 
 #date{
   background-color: blue;
-  width: 320px;
+  width: 355px;
   height: 70px;
   margin-top: 0px;
-  margin-left: 160px;
+  margin-left: 170px;
   position: absolute;
 }
 
 #time{
-  background-color: yellow;
-  width: 80px;
+  /*background-color: yellow;*/
+  padding-top: 16px;
+  padding-left: 6px;
+  padding-bottom: 10px;
+  width: 170px;
   height: 70px;
   margin-top: 0px;
-  margin-left: 480px;
+  margin-left: 525px;
   position: absolute;
+  color: black;
+  font-size: 30px;
+  font-family:fantasy;
 }
 
 #head_current_time{
   background-color: green;
-  width: 240px;
+  width: 270px;
   height: 70px;
   margin-top: 0px;
-  margin-left: 560px;
+  margin-left: 695px;
   position: absolute;
 }
 
 #curr_temp{
-  background-color: black;
-  width: 240px;
+  /*background-color: black;*/
+  width: 270px;
   height: 170px;
   margin-top: 70px;
-  margin-left: 560px;
+  margin-left: 695px;
   position: absolute;
+  color: black;
+  font-size: 35px;
 }
 
 #table_temp{
   background-color: yellow;
-  width: 240px;
-  height: 240px;
+  width: 270px;
+  height: 275px;
   margin-top: 240px;
-  margin-left: 560px;
+  margin-left: 695px;
   position: absolute;
 }
 
 #plot{
   background-color: green;
-  width: 560px;
-  height: 330px;
+  width: 695px;
+  height: 365px;
   margin-top: 70px;
   margin-left: 0px;
   position: absolute;
@@ -70,36 +83,44 @@
 
 #fut_1{
   background-color: yellow;
-  width: 140px;
+  width: 139px;
   height: 80px;
-  margin-top: 400px;
+  margin-top: 435px;
   margin-left: 0px;
   position: absolute;
 }
 
 #fut_2{
   background-color: blue;
-  width: 140px;
+  width: 139px;
   height: 80px;
-  margin-top: 400px;
-  margin-left: 140px;
+  margin-top: 435px;
+  margin-left: 139px;
   position: absolute;
 }
 
 #fut_3{
   background-color: black;
-  width: 140px;
+  width: 139px;
   height: 80px;
-  margin-top: 400px;
-  margin-left: 280px;
+  margin-top: 435px;
+  margin-left: 278px;
   position: absolute;
 }
 
 #fut_4{
   background-color: red;
-  width: 140px;
+  width: 139px;
   height: 80px;
-  margin-top: 400px;
-  margin-left: 420px;
+  margin-top: 435px;
+  margin-left: 417px;
+  position: absolute;
+}
+#fut_5{
+  background-color: blue;
+  width: 139px;
+  height: 80px;
+  margin-top: 435px;
+  margin-left: 556px;
   position: absolute;
 }
